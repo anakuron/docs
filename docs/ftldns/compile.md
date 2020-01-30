@@ -32,7 +32,7 @@ sudo make install
 
 #### Get the *FTL*DNS source
 
-Now, clone the *FTL*DNS repo (or your own fork) to get the source code of *FTL*DNS:
+Now, clone the *FTL*DNS repo (or your fork) to get the source code of *FTL*DNS:
 
 ```bash
 git clone https://github.com/pi-hole/FTL.git
